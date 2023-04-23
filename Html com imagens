@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Robótica Jaboti</title>
+  <link rel="stylesheet" href="style.css">/* Reset de estilos para garantir uma base limpa */
+  body, figure, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilo para o corpo da página */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    color: #333;
+  }
+  
+  /* Estilo para o cabeçalho */
+  header {
+    background-color: #003366;
+    padding: 20px;
+  }
+  
+  /* Estilo para o logo */
+  .logo {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  /* Estilo para o conteúdo principal */
+  main {
+    padding: 20px;
+  }
+  
+  /* Estilo para as seções de projetos */
+  section {
+    margin-bottom: 30px;
+  }
+  
+  /* Estilo para os títulos de seção */
+  section h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para a descrição dos projetos */
+  .project-description {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para as imagens dos projetos */
+  .project-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para o rodapé */
+  footer {
+    background-color: #003366;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  /* Estilo para o texto do rodapé */
+  footer p {
+    font-size: 14px;
+  }
+  
+</head>
+
+<body>
+  <header>
+    <h1>Robótica Jaboti</h1>
+    <nav>
+      <ul>
+        <li><a href="#projeto-rai">Projeto RAI</a></li>
+        <li><a href="#projeto-oculos-auxiliar">Óculos Auxiliar (Smart Glass)</a></li>
+        <li><a href="#projeto-moto-autonoma">Moto Autônoma</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="projeto-rai">
+      <h2>Projeto RAI</h2>
+      <img src="rai.jpg" alt="Imagem ilustrativa do Projeto RAI">
+      <p>O Projeto RAI é um robô autônomo que utiliza visão computacional para realizar tarefas de reconhecimento de
+        objetos, navegação e interação com o ambiente. Ele é projetado para ser utilizado em ambientes internos, como
+        residências, hospitais e escritórios, e possui diversas aplicações, como assistência a pessoas com deficiências
+        físicas ou visuais, monitoramento de ambientes e suporte em tarefas do cotidiano.</p>
+      <ul>
+        <li>Desenvolvimento de algoritmos de visão computacional</li>
+        <li>Programação de robôs autônomos</li>
+        <li>Integração de sensores e atuadores</li>
+        <li>Testes e validação do robô em ambiente real</li>
+      </ul>
+    </section>
+    <section id="projeto-oculos-auxiliar">
+      <h2>Óculos Auxiliar (Smart Glass)</h2>
+      <img src="oculos-auxiliar.jpg" alt="Imagem ilustrativa do Óculos Auxiliar (Smart Glass)">
+      <p>O Óculos Auxiliar, também conhecido como Smart Glass, é um dispositivo wearable que utiliza realidade aumentada
+        para fornecer informações visuais em tempo real aos usuários. Ele é projetado para ser utilizado por pessoas com
+        deficiências visuais ou para auxiliar em tarefas específicas, como montagem de equipamentos, treinamento de
+        pessoal ou assistência técnica remota.</p>
+      <ul>
+        <li>Desenvolvimento de aplicativos de realidade aumentada</li>
+        <li>Integração de sensores e câmeras</li>
+        <li>Programação de interações e gestos</li>
+        <li>Testes de usabilidade e validação do dispositivo</li>
+      </ul>
+    </section>
+    <section id="projeto-moto-autonoma">
+      <h2>Moto Autônoma</h2>
+      <img src="moto-autonoma.jpg" alt="Imagem ilustrativa da Moto Autônoma">
+      <p>A Moto Autônoma é um projeto de robô autônomo que utiliza tecnologias de condução autônoma para realizar deslocamentos sem a necessidade de um piloto humano. Ela é projetada para ser utilizada em ambientes controlados, como pátios industriais, complexos logísticos ou áreas de circulação restrita, e pode ser aplicada em setores como transporte de cargas, logística interna, e monitoramento de segurança.
+
+        <ul>
+          <li>Desenvolvimento de algoritmos de navegação autônoma</li>
+          <li>Integração de sensores, como câmeras, sensores de distância e GPS</li>
+          <li>Programação de sistemas de controle e atuadores para a moto</li>
+          <li>Testes e validação do sistema de condução autônoma</li>
+        </ul>
+        </section>
+        </main>
+        <footer>
+          <p>© 2023 Robótica Jaboti. Todos os direitos reservados.</p>
+        </footer>
+        </body>
+        </html>
+        ```
